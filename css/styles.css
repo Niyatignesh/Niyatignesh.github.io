@@ -20,7 +20,6 @@ body {
     text-align: center;
     overflow-x: hidden !important;
     margin: auto !important;
-    margin-top:50px;
 }
 
 a, a:hover, a:active, a:focus {
@@ -133,7 +132,7 @@ section {
 	background: url(../images/bsbild_fullhd_01.jpg) no-repeat center center;
 	background-size: cover;
 	height: 100vh;
-	padding: 0px;
+	padding: 60px;
 }
 
 #header .container {
@@ -154,10 +153,12 @@ section {
 	margin-left: auto;
 	margin-right: auto;
 	z-index: 999;
+	padding:60px;
 }
 
 #header .logo {
 	margin-bottom: 15px;
+	padding:60px
 }
 
 .animation {
